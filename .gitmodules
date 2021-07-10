@@ -1,0 +1,3 @@
+[submodule "opentitan"]
+	path = opentitan
+	url = https://github.com/hm-seclab/opentitan
